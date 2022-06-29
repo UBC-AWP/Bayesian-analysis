@@ -17,6 +17,10 @@ The app is still in development and more customized features are coming soon!
 
 This dashboard requires log in credentials. Please reach out to the [AWP](https://awp.landfood.ubc.ca/) for access.
 
+## License
+
+The Peek-a-Moo dashboard is licensed under the terms of the MIT license, full details [here](https://github.com/UBC-AWP/Bayesian-analysis/blob/main/LICENSE)
+
 ## Want to contribute?
 
 Welcome to join us and please reach out to the [AWP](mailto:animalwelfare@ubc.ca)
